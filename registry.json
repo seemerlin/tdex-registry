@@ -1,30 +1,6 @@
 [
   {
-    "name": "Tdex_DEPIX",
-    "endpoint": "http://dyki2gt6yno6g32hzpsclxtqhdl4jyebl36oiu2u2r5wgqwzmykigoqd.onion:80"
-  },
-  {
-    "name": "Tdex_LCAD",
-    "endpoint": "http://d7y3mzol3eo2tneqw5oytj23knm3734npwml4jzazrzzpy32e56lrxqd.onion:80"
-  },
-  {
-    "name": "ONLYBESTOFFERS.TRADE",
-    "endpoint": "http://onlybestyqgaaloz2azrefzu6kkrtakrh324ana2fqfrzpves2rgsqyd.onion:9945"
-  },
-  {
-    "name": "eldamar",
-    "endpoint": "https://tdex.eldamar.icu:443"
-  },
-  {
-    "name": "Tdex_USDT",
-    "endpoint": "http://btuiucyiumvdzhlnhqbnj6k5yrbwo2dlznzosicwnf6nw5aewr77elyd.onion:80"
-  },
-  {
     "name": "Test_Provider",
     "endpoint": "http://172.161.100.170:9945"
-  },
-  {
-    "name": "SwapMarket",
-    "endpoint": "https://api.swapmarket.online"
   }
 ]
